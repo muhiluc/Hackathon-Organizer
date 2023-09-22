@@ -1,0 +1,2 @@
+# Hackathon-Organizer
+r script
